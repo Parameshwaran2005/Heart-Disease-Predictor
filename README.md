@@ -1,4 +1,5 @@
 ❤️ Heart Disease Predictor
+
 📌 Overview
 The Heart Disease Predictor is a machine learning project designed to predict the likelihood of a patient having heart disease based on their medical attributes. The model is trained using classification techniques to analyze health data and provide a prediction that can assist medical professionals in early-stage diagnosis.
 
